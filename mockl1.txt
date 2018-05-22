@@ -1,0 +1,757 @@
+
+L1 IMS Mock Test Set 1
+
+
+Section:
+1
+2
+3
+4
+Time Left : 134 : 53 List View 
+    Active     Attempted     Not Attempted
+Q1
+
+ 
+If your client speaks with a high rate of speech , you should ______________. (choose all that applies)
+Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list.
+Stop listening 
+Make notes 
+Paraphrase / repeat the information in your own words 
+Ask questions for clarification
+Q2
+
+ 
+While drafting an email in an office you should ______. (choose all that applies )
+Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list.
+Use complex words 
+Consider type of audience 
+Use simple English / easy language 
+Not consider the people in CC column 
+Q3
+
+ 
+In an interview if a person has ____________ thought process , he / she may not perform well.
+Single Choice - Select one correct answer from the options list.
+Innovative
+Good
+Limited
+Satisfactory 
+None of the Above
+Q4
+
+ 
+______________________ is an  internal barrier  to listening.
+Single Choice - Select one correct answer from the options list.
+Poor air conditioning   in the room 
+The attitude of the speaker
+Disinterestedness 
+Uncomfortable clothes worn 
+None of the Above
+Q5
+
+ 
+Every employee or professional in an organization has Communication as his / her competency however the levels of proficiency may  differ.
+Single Choice - Select one correct answer from the options list.
+FALSE
+TRUE
+Depends on factors
+None of the above 
+Q6
+
+ 
+Before you attend a client call you should _________.
+Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list.
+Not care about the agenda of the call
+Choose to display positive tone throughout the call
+Practise what you will  say and in which  kind of pitch 
+Not care about the attendees 
+Q7
+
+ 
+You are angry and write an email in that mood, there is a possibility that _____________. (choose all that applies)
+Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list.
+The tone of the email will not be affected at all 
+The words used will reflect your state of mind i.e. anger 
+The words used will reflect harmony & compassion 
+Tone will be negative 
+Q8
+
+ 
+Which are the Do's of drafting a business email ? (choose all that apply)
+Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list.
+Avoid salutations in business emails
+Proof read emails before sending
+Always have a relevant subject line for your email
+Create your own signature in business emails
+Q9
+
+ 
+Which statement is true?
+Single Choice - Select one correct answer from the options list.
+Listening is same as hearing 
+An external barrier to listening is prejudice
+We must interrupt while listening 
+As compared to external barriers to listening , it takes time to overcome internal barriers. 
+None of the Above
+Q10
+
+ 
+In almost all organizations most of the communication is done in the written form due to its many advantages like __________. ( Choose all that apply)
+Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list.
+It is inexpensive 
+Who has time to talk to others
+It is a proof as is in a written form 
+It is beneficial for different time zones
+Q11
+
+ 
+______ policy setting is appropriate for closely managed computers where the desktop configuration should remain the same, regardless of who logs on.
+Single Choice - Select one correct answer from the options list.
+Preference Targetting
+WMI
+Loopback Processing Mode
+Item Level Targetting
+None of the Above
+Q12
+
+ 
+Search in janes home folder for files ending with .doc and accessed in last 24 hours(or 1 day)
+Single Choice - Select one correct answer from the options list.
+find /home/jane/ -name *.doc -time -1
+find /home/jane/ -name *.doc -atime -1
+find /home/jane/ -name *.doc -accessedtime -1
+find /jane/ -name *.doc -time -1
+None of the Above
+Q13
+
+ 
+Designed to offer support for Active Directory domain controllers running various supported operating systems by limiting functionality to specific software versions. As legacy domain controllers are decommissioned, administrators can modify the functional levels to expose new functionality within Active Directory. Some features in Active Directory cannot be activated, for example, until all domain controllers in a forest are upgraded to a specific level.
+Single Choice - Select one correct answer from the options list.
+external trust
+container object
+functional levels
+directory service
+None of the Above
+Q14
+
+ 
+Which Flexible Single Master Operations (FSMO) role must be available in a domain to ensure that you are able to create accounts in that domain without any errors?
+Single Choice - Select one correct answer from the options list.
+PDC Emulator
+RID Master
+Schema Master
+Domain Naming Master
+None of the Above
+Q15
+
+ 
+____ is created whenever a new user is added to the system.
+Single Choice - Select one correct answer from the options list.
+UMG
+UPG
+UGM
+UGP
+None of the Above
+Q16
+
+ 
+Full name of an object that includes all hierarchical containers leading up to the root domain. The distinguished name begins with the object's common name and appends each succeeding parent container object, reflecting the object's location in the Active Directory structure.
+Single Choice - Select one correct answer from the options list.
+distinguished name (DN)
+flat name
+dns
+wds
+None of the Above
+Q17
+
+ 
+_____ is a Windows Server service that administrators can use to protect sensitive data on a Windows network.
+Single Choice - Select one correct answer from the options list.
+WINS
+RMS
+WDS
+DFS
+None of the Above
+Q18
+
+ 
+find and remove multiple files with the .mp3 extension?
+Single Choice - Select one correct answer from the options list.
+find . -type f -name "*.mp3" -exec rm -f \;
+find . -type f -name "*.mp3"  rm -f {} \;
+find . -type f -name "*.mp3" -exec rm {};
+find . -type f -name "*.mp3" -exec rm -f {} \;
+None of the Above
+Q19
+
+ 
+____ is used to define permission assignments. Administrators cannot manually modify the group membership.
+Single Choice - Select one correct answer from the options list.
+Global Group
+Universal Group
+Fixed Groups
+special identity group
+None of the Above
+Q20
+
+ 
+In useradd command, We need to use __ switch to create the home directory if it didn't exist.
+Single Choice - Select one correct answer from the options list.
+m
+c
+d
+p
+None of the Above
+Q21
+
+ 
+First domain created within an Active Directory forest.
+Single Choice - Select one correct answer from the options list.
+Domain Root *****
+Forest First
+Forest Root
+DC root
+None of the Above
+Q22
+
+ 
+Which of the following cron schedule will execute every weekday (i.e excluding Sat and Sun) during the working hours 9 a.m – 6 p.m?
+Single Choice - Select one correct answer from the options list.
+00 1-5 09-18 * *  /home/ramesh/bin/check-db-status
+00  * 09-18 * 1-5 /home/ramesh/bin/check-db-status
+00 09-18 1-5 * *  /home/ramesh/bin/check-db-status
+00 09-18 1-5 * * /home/ramesh/bin/check-db-status
+None of the Above ******
+Q23
+
+ 
+____ switch need to be used for listing all the system processes.
+Single Choice - Select one correct answer from the options list.
+e
+a
+s
+l
+None of the Above
+Q24
+
+ 
+Which of the following cron schedule will check the status of the database everyday (including weekends) during the working hours 9 a.m – 6 p.m?
+Single Choice - Select one correct answer from the options list.
+00 * 09-18 * * * /home/ramesh/bin/check-db-status
+09-18 00  * * * /home/ramesh/bin/check-db-status
+00 * * * 09-18 /home/ramesh/bin/check-db-status
+00 * * 09-18 * /home/ramesh/bin/check-db-status
+None of the Above ******
+Q25
+
+ 
+To Add execute permission for the owner and set the permissions for the group and others to read and execute,  we need to use _____.
+Single Choice - Select one correct answer from the options list.
+u+x, go=rx *****
+o+x, g=rx
+go+x, o=rx
+ugo=rx
+None of the Above
+Q26
+
+ 
+____ is a Special startup mode used to run an offline defragmentation.
+Single Choice - Select one correct answer from the options list.
+ADSM
+DSMR
+DSRM
+DRSM
+None of the Above
+Q27
+
+ 
+What is the need for "login" command?
+Single Choice - Select one correct answer from the options list.
+Used to set line password
+Used to prompt the line password *****
+this is used to log into the router
+Used to Prompt all the passwords
+None of the Above
+Q28
+
+ 
+What is the port number used by SMTP?
+Single Choice - Select one correct answer from the options list.
+10
+25 ********
+80
+110
+None of the Above
+Q29
+
+ 
+What is the maximum number of subnets that each subnet of 192.168.7.193/27 can accommodate?
+Single Choice - Select one correct answer from the options list.
+30 ******
+62
+126
+254
+None of the Above
+Q30
+
+ 
+______ refers to the extra bits and characters added to data packets for error detection and control.
+Single Choice - Select one correct answer from the options list.
+FCS
+CSMA
+VTP
+EMT
+None of the Above
+Q31
+
+ 
+What is the last IP Address in the network 200.100.100.64/27?
+Single Choice - Select one correct answer from the options list.
+200.100.100.65
+200.100.100.95
+200.100.100.94 *****
+200.100.100.96
+None of the Above
+Q32
+
+ 
+Is the IP Address 192.168.5.159 /28 valid?
+Single Choice - Select one correct answer from the options list.
+Yes
+No
+I don’t know
+I don’t care
+None of the Above
+Q33
+
+ 
+What is the Network address of 172.16.35.40 / 27?
+Single Choice - Select one correct answer from the options list.
+172.16.35.0
+172.16.34.0
+172.16.32.0
+172.16.35.32 *******
+None of the Above
+Q34
+
+ 
+What is the total number of hosts in the network 172.16.64.0 / 21?
+Single Choice - Select one correct answer from the options list.
+11
+2 power 11 minus 2
+5
+2 power 5 - 2
+None of the Above
+Q35
+
+ 
+What is the broadcast address of 6.4.1.3/22?
+Single Choice - Select one correct answer from the options list.
+6.4.1.255
+6.4.2.255
+6.4.3.255 *****
+6.4.255.255
+None of the Above
+Q36
+
+ 
+______ command Encrypts the user mode and enable password.
+Single Choice - Select one correct answer from the options list.
+service encrypt
+service password-encryption
+encrypt passwd
+password-encryption
+None of the Above
+Q37
+
+ 
+Is the IP Address 150.50.6.0 /22 valid?
+Single Choice - Select one correct answer from the options list.
+Yes
+No
+I don’t know
+I don’t care
+None of the Above
+Q38
+
+ 
+____ command will remove a static route.
+Single Choice - Select one correct answer from the options list.
+remove ip route
+rm ip route
+no ip route
+flush ip route
+None of the Above
+Q39
+
+ 
+What is the maximum number of subnets 174.19.22.14/25?
+Single Choice - Select one correct answer from the options list.
+128
+256
+512
+1024
+None of the Above
+Q40
+
+ 
+RARP is used for what purpose?
+Single Choice - Select one correct answer from the options list.
+Map Source MAC To Source IP
+Map Destination IP to Destination MAC
+MAP Source IP to Destination MAC
+Map Destination IP to Source MAC
+None of the Above
+Q41
+
+ 
+For 120 Hosts what is the optimum subnet mask to be used in the VLSM Design?
+Single Choice - Select one correct answer from the options list.
+/24
+/25
+/26
+/23
+None of the Above
+Q42
+
+ 
+What is the Broadcast Address of the network 120.48.0.0/12?
+Single Choice - Select one correct answer from the options list.
+120.48.255.255
+120.51.255.255
+120.63.255.255 *****
+120.64.255.255
+None of the Above
+Q43
+
+ 
+Tables in second normal form (2NF):
+Single Choice - Select one correct answer from the options list.
+Eliminate all hidden dependencies
+Eliminate the possibility of a insertion anomalies
+Have a composite key
+Have all non key fields depend on the whole primary key *****
+None of the Above
+Q44
+
+ 
+Foreign key is the one in which the ________ of one relation is referenced in another relation.
+Single Choice - Select one correct answer from the options list.
+Foreign key
+Primary key ******
+References
+Check constraint
+None of the Above
+Q45
+
+ 
+Expand LCN. (Logical Cluster Number)
+Single Choice - Select one correct answer from the options list.
+Left Cluster Number
+Live Cluster Number
+LOCAL CLUSTER NUMBER
+None of the Above ****
+Q46
+
+ 
+A process enters the Blocked state when?
+Single Choice - Select one correct answer from the options list.
+I/O Event ******
+Termination
+Prempted
+none
+Q47
+
+ 
+What is framework?
+Single Choice - Select one correct answer from the options list.
+Collection of libraries
+Collection of codes
+Collection of program
+collection of structured format *****
+None of the Above
+Q48
+
+ 
+Parity is?
+Single Choice - Select one correct answer from the options list.
+ a system for balancing the voltage coming out of the power supply
+a byte stored in the FAT to indicated remaining slots
+the last setting for controlling hard drive configuration of IDE drives in the CMOS
+an extra bit stored with data in RAM that is used to check for errors when the data is read back ****
+the optimal transmission speed of data over a CAT 5 cable
+Q49
+
+ 
+What is the sequence of data flow from physical layer to application layer?
+Single Choice - Select one correct answer from the options list.
+Bits, Frames, Packet, Data ******
+Data, Packet, Bits
+Bits, Packet, Frames, Data
+None of the above 
+Q50
+
+ 
+Which of the following is not a valid RAID?
+Single Choice - Select one correct answer from the options list.
+10
+01
+4
+9 ******
+None of the Above
+Q51
+
+ 
+In a relational schema, each tuple is divided into fields called?
+Single Choice - Select one correct answer from the options list.
+relations
+domains ******
+queries
+all the above
+None of the Above
+Q52
+
+ 
+To copy a directory full of files in Linux, you must tell the cp command that the copy will be ____________________ (involve files and subdirectories too) by using the ____ option.
+Single Choice - Select one correct answer from the options list.
+f
+d
+s
+R
+None of the Above
+Q53
+
+ 
+_____ is the filepath to the config params for GRUB. /boot/grub/grub.conf
+Single Choice - Select one correct answer from the options list.
+/grub/grub.conf 
+/etc/grub.conf
+/grub.conf
+/boot/grub.conf
+None of the Above
+Q54
+
+ 
+Which of these is called Physical Memory?
+Single Choice - Select one correct answer from the options list.
+ROM
+HDD
+USB Disk
+Page
+None of the Above
+Q55
+
+ 
+Which among these is not a network service?
+Single Choice - Select one correct answer from the options list.
+DHCP
+DNS
+BOOTP
+DBMS
+None of the Above
+Q56
+
+ 
+The most effective and effiecient topology is?
+Single Choice - Select one correct answer from the options list.
+Bus
+Star
+Ring 
+Mesh
+None of the Above
+Q57
+
+ 
+Which of the following is not a transmission medium?
+Single Choice - Select one correct answer from the options list.
+telephone lines
+ coaxial cables
+ modem
+ microwave systems  
+None of the Above
+Q58
+
+ 
+Which of these is not a DHCP message?
+Single Choice - Select one correct answer from the options list.
+DHCPLeasequery
+DHCPLeaseunknown
+DHCPLeaseunassigned
+DHCPLeaseabort
+None of the Above
+Q59
+
+ 
+Which of the following is NOT a type of RAM?
+Single Choice - Select one correct answer from the options list.
+DIMM
+SIMM
+ROM
+SLIPP
+None of the Above
+Q60
+
+ 
+To create an encrypted password for use in the /boot/grub/grub.conf, you can use the ____ command.
+Single Choice - Select one correct answer from the options list.
+grub-md-crypt
+grub-m5-crypt
+grub-md5-cryp
+None of the Above
+Q61
+
+ 
+RS-232 is a standard that applies to?
+Single Choice - Select one correct answer from the options list.
+serial ports
+parallel ports
+game ports
+networks
+digital frequencies
+None of the Above
+Q62
+
+ 
+IETF stands for ______________.
+Single Choice - Select one correct answer from the options list.
+Internetwork Engineering Task Force
+Internet Engineering Task Force
+Internet Engineering Task Form
+Internet Engineers Task Force
+None of the Above
+Q63
+
+ 
+Which of the following is NOT a type of motherboard expansion slot?
+Single Choice - Select one correct answer from the options list.
+ISA
+PCI
+AGP
+ATX
+None of the Above
+Q64
+
+ 
+What is the tool used to edit Group Policies locally?
+Single Choice - Select one correct answer from the options list.
+regedit.exe
+services.msc
+gpedit.exe
+gpmc.msc
+None of the Above
+Q65
+
+ 
+NetBIOS stands for ___________.
+Single Choice - Select one correct answer from the options list.
+Network BIOS Input/Output System
+Network Basic Input/Output System
+Networking Basic Input/Output System
+Network Basic Input/Output Service
+None of the Above
+Q66
+
+ 
+To create a hard link, you must use the ____ command.
+Single Choice - Select one correct answer from the options list.
+ls
+lk
+lh
+ln
+None of the Above
+Q67
+
+ 
+Updates that violate __________ are disallowed.
+Single Choice - Select one correct answer from the options list.
+Integrity constraints
+Transaction control
+Authorization
+DDL constraints
+None of the Above
+Q68
+
+ 
+Which is not the type of network?
+Single Choice - Select one correct answer from the options list.
+CAN
+MAN
+PAN
+WAN
+None of the Above
+Q69
+
+ 
+Size of an MFT record?
+Single Choice - Select one correct answer from the options list.
+1Kb
+2Kb
+3Kb
+4KB
+None of the Above
+Q70
+
+ 
+SOA stands for?
+Single Choice - Select one correct answer from the options list.
+Service oriented architecture
+Simple oriented architecture
+single object application
+None of the above
+Q71
+
+ 
+NAS uses ____ IO.
+Single Choice - Select one correct answer from the options list.
+Block
+File
+Byte
+Bit
+None of the Above
+Q72
+
+ 
+_____ introduced the relational database rules.
+Single Choice - Select one correct answer from the options list.
+James Gosling
+Dennies Rithchie
+James Rambaugh
+None of the Above
+Q73
+
+ 
+Data will be in the form of ________, if it is fibre cable.
+Single Choice - Select one correct answer from the options list.
+packet
+0’s
+1’s
+light
+None of the Above
+Q74
+
+ 
+To see a list of all exported environment and user-defined variables in the shell, you can use the ____ command.
+Single Choice - Select one correct answer from the options list.
+env
+exportall
+exports
+ex
+None of the Above
+Q75
+
+ 
+In the __________ normal form, a composite attribute is converted to individual attributes.
+Single Choice - Select one correct answer from the options list.
+First
+Second
+Third
+Fourth
+None of the Above
+Business Communication
+12345678910
+IS Essentials 1
+11121314151617181920212223242526
+IS Essentials 2
+27282930313233343536373839404142
+IS Fundamentals
+4344454647484950515253545556575859606162636465666768697071727374751 out of 75 
